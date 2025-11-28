@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.json
+!package.json
+*.log
+.DS_Store
+*.pkl
+*.model
+my_corpus.txt
